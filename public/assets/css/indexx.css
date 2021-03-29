@@ -1,0 +1,74 @@
+.productt{
+    position: relative;
+}
+.price{
+    background-color: tomato;
+    position:absolute;
+    top: 0;
+    right: 15px;
+}
+nav
+{
+    color: brown;
+}
+.imgg
+{
+    height: 40%;
+    width: 100%;
+}
+a
+{
+   text-decoration: none;
+   color: black;
+   
+}
+.w
+{
+    width: 25%;
+    font-size: small;
+}
+input[type=email],  
+input[type=password] {  
+    width: 100%;  
+    padding: 12px 40px;  
+    margin: 8px 0;  
+    display: inline-block;  
+    border: 1px solid #ccc;  
+    box-sizing: border-box;  
+}  
+  
+/* Set a style for the buttons*/  
+
+
+
+.fontuser { 
+    position: relative; 
+} 
+  
+.fontuser i{ 
+    position: absolute; 
+    left: 15px; 
+    top: 50px; 
+    color: gray; 
+} 
+  
+.fontpassword { 
+    position: relative; 
+} 
+  
+.fontpassword i{ 
+    position: absolute; 
+    left: 15px; 
+    top: 50px; 
+    color: gray; 
+}
+.naav
+{
+  position: relative;  
+} 
+.x
+{
+position: absolute;
+top:15px;
+left:10px;
+}
